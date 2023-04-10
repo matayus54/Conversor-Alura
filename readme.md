@@ -25,6 +25,11 @@ Al ejecutar el programa, verás una interfaz de usuario simple que te permite se
 
 El resultado de la conversión se mostrará en la sección "Resultado" debajo de los campos de entrada.
 
+## Demo
+
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/33961465/230841949-9e50f1c9-4c97-4477-a30f-f019ee5e3351.mp4" controls></video>
+</p>
 
 ## Conversor de Divisas
 <table>
@@ -77,8 +82,6 @@ El resultado de la conversión se mostrará en la sección "Resultado" debajo de
     </td>
   </tr>
 </table>
-
-
 
 ## Créditos
 
